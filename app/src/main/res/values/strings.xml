@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentExperimental</string>
+    
+    <string-array name="student_name">
+        <item>Zaki</item>
+    </string-array>
+
+    <string-array name="student_age">
+        <item>24</item>
+    </string-array>
+</resources>

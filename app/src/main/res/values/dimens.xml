@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Details View Format Dimensions-->
+    <dimen name="tv_name_margin_bottom">6dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="row_padding_vertical">8dp</dimen>
+    <dimen name="margin_layout">4dp</dimen>
+    <dimen name="tv_text_size">16sp</dimen>
+
+</resources>
